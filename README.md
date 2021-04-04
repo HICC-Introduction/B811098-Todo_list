@@ -39,6 +39,9 @@
 
 ![main](https://user-images.githubusercontent.com/78442839/113510609-9c02e300-9596-11eb-9381-02aaffe89241.JPG)
 
+![main2](https://user-images.githubusercontent.com/78442839/113510832-aa053380-9597-11eb-9590-3638c3080869.JPG)
+
+
 ### 실행 방법
 
 ##### list section (왼쪽)
